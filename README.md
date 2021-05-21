@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HiroOnGithub
 - 👀 I’m interested in everything interesting.
 - 🌱 I’m currently learning python, CSS, HTML, JavaScript.
-- 💞️ I’m looking to collaborate on nothing. I have no friends.
+- 💞️ I’m looking to collaborate on nothing. I have no friends& database.
 - 📫 How to reach me? IDK
 
 <!---
