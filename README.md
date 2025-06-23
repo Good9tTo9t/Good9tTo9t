@@ -1,1 +1,3 @@
-- I do stuff
+- Programming Languages: Python, Web, C++
+- Natural Languages: Mandarin, Taiwanese Hokkien, English, Latin
+- Studied Information Engineering in the Affiliated Tainan Industrial Senior High School of NCKU
