@@ -1,4 +1,4 @@
-- Programming Languages: Python, Web, C++
+- Programming Languages: Python, Web, C++, C#
 - Natural Languages: Mandarin, Taiwanese Hokkien, English, Latin (primitive)
 - Studied Information Engineering in the Affiliated Tainan Industrial Senior High School of NCKU
 - Majoring in CSIE at NTUT. 
